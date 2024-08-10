@@ -1,0 +1,5 @@
+# we can use '#' to comment any line and it will be ignored
+
+secrets.txt
+*.log   
+# '*(.log)' means all files will be ignored of .log type
